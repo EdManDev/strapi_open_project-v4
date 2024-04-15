@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "open_projects",
+  "info": {
+    "singularName": "open-project",
+    "pluralName": "open-projects",
+    "displayName": "open_project"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}
